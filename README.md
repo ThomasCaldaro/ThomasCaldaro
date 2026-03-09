@@ -24,5 +24,3 @@ Python • SQL • Git • Pandas • APIs • Databases
 Continue developing strong foundations in computer science while building projects that demonstrate practical problem-solving and technical growth.
 
 ---
-
-Always learning and building.
