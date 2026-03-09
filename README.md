@@ -39,14 +39,6 @@ I enjoy working on projects involving software development, data systems, and au
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasCaldaro&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasCaldaro&layout=compact)
-
----
-
 ## Goals
 
 Continue developing strong foundations in computer science while building projects that demonstrate practical problem-solving and technical growth.
