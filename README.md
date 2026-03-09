@@ -1,4 +1,4 @@
-# Hi, I'm Tommy 👋
+# Hi, I'm Thomas 👋
 
 Computer Science student focused on building practical software systems and learning how technology solves real-world problems.
 
